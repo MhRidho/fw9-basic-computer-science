@@ -1,0 +1,8 @@
+Algortima bilangan lebih besar
+1. Start
+2. Input variabel a dan b
+3. Buat variabel a dan b
+4. Buat rumus jika a > b maka a lebih besar
+5. Jika tidak b lebih besar dari a
+6. Return Hasil 
+7. Selesai

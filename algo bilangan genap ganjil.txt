@@ -1,0 +1,6 @@
+Algoritma menghitung bilangan genap atau ganjil
+1. Start
+2. Input bilangan x
+3. Buat kondisi jika x modulus 2 sama dengan 0, maka return genap
+4. Maka selain itu ganjil
+5. End

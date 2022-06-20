@@ -1,0 +1,8 @@
+Algoritma menukar isi air dalam cangkir
+1. Start
+2. Masukan air teh ke dalam teko
+3. Cuci cangkir air teh
+4. Masukan kopi ke dalam cangkir teh
+5. Cuci cangkir kopi
+6. Masukan air teh yang di teko ke dalam cangkir kopi
+7. Selesai

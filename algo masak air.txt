@@ -1,0 +1,8 @@
+Algoritma masak air:
+1. Mulai / Start
+2. Letakan panci di kompor 
+3. Masukan air ke dalam panci
+4. Hidupkan kompor
+5. Tunggu air sampai mendidih
+6. Pindahkan ke termos atau gelas
+7. Selesai / End

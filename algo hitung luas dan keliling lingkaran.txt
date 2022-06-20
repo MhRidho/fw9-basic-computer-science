@@ -1,0 +1,11 @@
+Algoritma menghitung luas lingkaran
+1. Start 
+2. Buat variabel jari2 / r
+3. Buat variabel Phi dan tentukan (Phi 3.14)
+4. Buat variabel luas lingkaran, keliling lingkaran
+5. Masukan rumus phi x r x r ke variabel luas lingkaran
+6. Masukan rumus phi x r x r ke variabel keliling lingkaran
+7. Return hasil luas lingkaran
+7. Return hasil keliling lingkaran
+8. Tampilkan hasil luas dan keliling lingkaran
+9. End
